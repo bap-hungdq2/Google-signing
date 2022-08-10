@@ -44,13 +44,13 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/react-native-google-signin/google-signin",
+  "repository": "https://github.com/davionkey3/Google-signing",
   "author": "Vojtech Novak <vonovak@gmail.com> (https://github.com/vonovak)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/react-native-google-signin/google-signin/issues"
+    "url": "https://github.com/davionkey3/Google-signing/issues"
   },
-  "homepage": "https://github.com/react-native-google-signin/google-signin#readme",
+  "homepage": "https://github.com/davionkey3/Google-signing#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },

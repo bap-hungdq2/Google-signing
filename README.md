@@ -6,7 +6,7 @@
 
 ### 🚧🚧 Maintenance notice 🚧🚧
 
-See this [issue](https://github.com/react-native-google-signin/google-signin/issues/942)
+See this [issue](https://github.com/davionkey3/Google-signing/issues/942)
 
 ## Features
 

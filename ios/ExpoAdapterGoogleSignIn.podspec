@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.homepage       = package['homepage']
   s.platform       = :ios, '12.0'
   s.swift_version  = '5.4'
-  s.source         = { :git => 'https://github.com/react-native-google-signin/google-signin.git', :tag => "v#{package['version']}" }
+  s.source         = { :git => 'https://github.com/davionkey3/Google-signing.git', :tag => "v#{package['version']}" }
   s.static_framework = true
 
   s.dependency 'ExpoModulesCore'

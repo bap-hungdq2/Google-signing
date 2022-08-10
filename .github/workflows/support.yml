@@ -17,6 +17,6 @@ jobs:
 
             The reason is that maintainers do not have time to try reproduce bugs themselves. Please try to minimize the superfluous code and focus only on reproducing the bug.
 
-            Please create a new issue with this and we'll be happy to review it! If you're hitting a hard wall, you may consider [paid assistance](https://github.com/react-native-google-signin/google-signin/pull/861).
+            Please create a new issue with this and we'll be happy to review it! If you're hitting a hard wall, you may consider [paid assistance](https://github.com/davionkey3/Google-signing/pull/861).
           close-issue: true
           lock-issue: false
