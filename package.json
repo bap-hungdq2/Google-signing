@@ -19,10 +19,7 @@
     "!ios/build",
     "!**/__tests__",
     "!**/__fixtures__",
-    "!**/__mocks__",
-    "app.plugin.js",
-    "expo-module.config.json",
-    "plugin/build"
+    "!**/__mocks__"
   ],
   "scripts": {
     "build:plugin": "tsc --build plugin",
